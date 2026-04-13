@@ -10,3 +10,6 @@ groq
 langchain-community
 langchain-chroma
 chromadb
+sentence-transformers
+torch
+transformers
